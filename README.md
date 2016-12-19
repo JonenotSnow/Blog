@@ -1,5 +1,6 @@
 百度金融场景Blog
 =====================
+[Findow weekly 4期](https://github.com/Hunt-team/Blog/issues/5)
 
 [Findow weekly 3期](https://github.com/Hunt-team/Blog/issues/3)
 
