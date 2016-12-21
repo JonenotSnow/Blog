@@ -12,6 +12,7 @@
 ### 自主翻译
 
 [2016年javascript回顾](http://cnedwan.com/2016/12/21/%E8%AF%91-2016%E5%B9%B4Javascript%E5%9B%9E%E9%A1%BE.html) `许恒译`
+
 [2017年需要学习的javascript框架和技术点](https://github.com/Findow-team/Blog/issues/4) `石嘉译`
 
 ### 个人原创
