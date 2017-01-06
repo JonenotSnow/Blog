@@ -3,7 +3,7 @@
 
 [Findow weekly 6期](https://github.com/Hunt-team/Blog/issues/7)
 
-[【新年第一弹】Findow weekly 5期](https://github.com/Hunt-team/Blog/issues/6)
+[Findow weekly 5期](https://github.com/Hunt-team/Blog/issues/6)
 
 [Findow weekly 4期](https://github.com/Hunt-team/Blog/issues/5)
 
@@ -22,4 +22,7 @@
 ### 原创达人
 
 ### 快到碗里来
-招FE&php，有意向的请发送简历到 xuheng@baidu.com
+
+招[FE](https://github.com/Findow-team/Blog/issues/9)&[php](https://github.com/Findow-team/Blog/issues/8)
+
+有意向的请发送简历到 xuheng@baidu.com
