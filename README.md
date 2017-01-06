@@ -23,6 +23,5 @@
 
 ### 快到碗里来
 
-招[FE](https://github.com/Findow-team/Blog/issues/9)&[PHP](https://github.com/Findow-team/Blog/issues/8)
-
+招[FE](https://github.com/Findow-team/Blog/issues/9)&[PHP](https://github.com/Findow-team/Blog/issues/8)高级工程师
 有意向的请发送简历到 xuheng@baidu.com
