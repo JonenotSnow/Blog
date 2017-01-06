@@ -23,6 +23,6 @@
 
 ### 快到碗里来
 
-招[FE](https://github.com/Findow-team/Blog/issues/9)&[php](https://github.com/Findow-team/Blog/issues/8)
+招[FE](https://github.com/Findow-team/Blog/issues/9)&[PHP](https://github.com/Findow-team/Blog/issues/8)
 
 有意向的请发送简历到 xuheng@baidu.com
