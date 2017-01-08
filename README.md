@@ -3,6 +3,8 @@
 
 [Findow weekly 7期](https://github.com/Findow-team/Blog/issues/10)
 
+[Findow weekly 6期](https://github.com/Hunt-team/Blog/issues/7)
+
 [Findow weekly 5期](https://github.com/Hunt-team/Blog/issues/6)
 
 [Findow weekly 4期](https://github.com/Hunt-team/Blog/issues/5)
