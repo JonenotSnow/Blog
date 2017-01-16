@@ -26,9 +26,8 @@
 
 [2017年需要学习的javascript框架和技术点](https://github.com/Findow-team/Blog/issues/4) `石嘉译`
 
-### 原创达人
 
-### 快到碗里来
+### 我们需要的小伙伴
 
 招[web前端工程师](https://github.com/Findow-team/Blog/issues/9)&[PHP工程师](https://github.com/Findow-team/Blog/issues/8)
 
