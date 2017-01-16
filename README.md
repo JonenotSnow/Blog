@@ -1,4 +1,4 @@
-百度金融信贷场景 Findow's Blog
+Findow's Blog
 =====================
 
 [Findow weekly 8期](https://github.com/Findow-team/Blog/issues/12)
