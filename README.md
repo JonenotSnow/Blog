@@ -26,6 +26,8 @@ Findow's Blog
 
 [2017年需要学习的javascript框架和技术点](https://github.com/Findow-team/Blog/issues/4) `石嘉译`
 
+[Fintech简介](https://github.com/Findow-team/Blog/issues/13) `石嘉译`
+
 
 ### 我们需要的小伙伴
 
