@@ -1,6 +1,8 @@
 Findow's Blog
 =====================
 
+[Findow weekly 10期](https://github.com/Findow-team/Blog/issues/15)
+
 [Findow weekly 9期](https://github.com/Findow-team/Blog/issues/14)
 
 [Findow weekly 8期](https://github.com/Findow-team/Blog/issues/12)
