@@ -41,7 +41,6 @@ Findow's Blog
 * panda
 
 ### 我们需要的小伙伴
-### 我们需要的小伙伴
 
 招[web前端工程师](https://github.com/Findow-team/Blog/issues/9)&[PHP工程师](https://github.com/Findow-team/Blog/issues/8)
 
