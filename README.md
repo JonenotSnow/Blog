@@ -3,6 +3,8 @@ Findow's Blog
 
 ### 个人翻译
 
+[没有循环的JavaScript](https://github.com/Findow-team/Blog/issues/16) `石嘉译`
+
 [Fintech简介](https://github.com/Findow-team/Blog/issues/13) `石嘉译`
 
 [2017前端性能优化清单](https://github.com/Findow-team/Blog/issues/11) `石嘉译`
