@@ -14,7 +14,7 @@ Findow's Blog
 [2016年javascript回顾](http://cnedwan.com/2016/12/21/%E8%AF%91-2016%E5%B9%B4Javascript%E5%9B%9E%E9%A1%BE.html) `许恒译`
 
 
-### 前端技术文章
+### 技术文章
 
 * [fex技术周刊](http://fex.baidu.com/weekly/)
 * [淘宝UED](http://taobaofed.org/)
@@ -26,7 +26,7 @@ Findow's Blog
 * [css-tricks](https://css-tricks.com/)
   
 
-### 前端微信公众号
+### 公众号
  
 * Javascript
 * InfoQ
@@ -34,6 +34,12 @@ Findow's Blog
 * 前端之巅
 * 前端外刊评论
   
+### 推荐APP
+
+* 开发者头条
+* panda
+
+### 我们需要的小伙伴
 ### 我们需要的小伙伴
 
 招[web前端工程师](https://github.com/Findow-team/Blog/issues/9)&[PHP工程师](https://github.com/Findow-team/Blog/issues/8)
