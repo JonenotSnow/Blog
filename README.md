@@ -1,28 +1,37 @@
 Findow's Blog
 =====================
 
-[Findow weekly 10期](https://github.com/Findow-team/Blog/issues/15)
+### 技术学习
 
-[Findow weekly 9期](https://github.com/Findow-team/Blog/issues/14)
+**推荐weekly**
 
-[Findow weekly 8期](https://github.com/Findow-team/Blog/issues/12)
+ - fex技术周刊：http://fex.baidu.com/weekly/
+ - 淘宝UED：http://taobaofed.org/
+ - 奇舞周刊：http://old.75team.com/weekly/
+ -  Echojs：http://www.echojs.com/
+ -  javascriptweekly：http://javascriptweekly.com/
+ -  html5weekly：http://html5weekly.com/ 
+ - medium：https://medium.com/
+ - Github Js Rank: https://stats.js.org/
+ - 前端好文收藏：http://blog.csdn.net/qq_29253285 
+ 
+**App**
 
-[Findow weekly 7期](https://github.com/Findow-team/Blog/issues/10)
+ - 开发者头条 
+ - Panda
 
-[Findow weekly 6期](https://github.com/Hunt-team/Blog/issues/7)
+**chrome插件**
 
-[Findow weekly 5期](https://github.com/Hunt-team/Blog/issues/6)
+- 获取最新技术信息：Panda
 
-[Findow weekly 4期](https://github.com/Hunt-team/Blog/issues/5)
+**Mac上破解软件**
 
-[Findow weekly 3期](https://github.com/Hunt-team/Blog/issues/3)
-
-[Findow weekly 2期](https://github.com/Hunt-team/Blog/issues/2)
-
-[Findow weekly 1期](https://github.com/Hunt-team/Blog/issues/1)
+- http://www.ifunmac.com/
+- https://github.com/jaywcjlove/awesome-mac
 
 
-### 翻译狂魔
+
+### 个人翻译
 
 [Fintech简介](https://github.com/Findow-team/Blog/issues/13) `石嘉译`
 
