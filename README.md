@@ -24,6 +24,7 @@ Findow's Blog
 * [html5weekly](http://html5weekly.com/)
 * [frontendfront](https://frontendfront.com/)
 * [css-tricks](https://css-tricks.com/)
+* [nodeweekly](http://nodeweekly.com/issues)
   
 
 ### 公众号
