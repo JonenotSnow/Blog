@@ -30,7 +30,7 @@ Findow's Blog
 
 [frontendfront](https://frontendfront.com/)
 
-[medium](https://medium.com/)
+[css-tricks](https://css-tricks.com/)
   
 
 ### 前端微信公众号
