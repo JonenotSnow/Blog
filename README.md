@@ -16,21 +16,14 @@ Findow's Blog
 
 ### 前端技术文章
 
-[fex技术周刊](http://fex.baidu.com/weekly/)
-
-[淘宝UED](http://taobaofed.org/)
-
-[奇舞周刊](http://old.75team.com/weekly/)
-
-[Echojs](http://www.echojs.com/)
-
-[javascriptweekly](http://javascriptweekly.com/)
-
-[html5weekly](http://html5weekly.com/)
-
-[frontendfront](https://frontendfront.com/)
-
-[css-tricks](https://css-tricks.com/)
+* [fex技术周刊](http://fex.baidu.com/weekly/)
+* [淘宝UED](http://taobaofed.org/)
+* [奇舞周刊](http://old.75team.com/weekly/)
+* [Echojs](http://www.echojs.com/)
+* [javascriptweekly](http://javascriptweekly.com/)
+* [html5weekly](http://html5weekly.com/)
+* [frontendfront](https://frontendfront.com/)
+* [css-tricks](https://css-tricks.com/)
   
 
 ### 前端微信公众号
