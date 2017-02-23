@@ -12,40 +12,36 @@ Findow's Blog
 [2016年javascript回顾](http://cnedwan.com/2016/12/21/%E8%AF%91-2016%E5%B9%B4Javascript%E5%9B%9E%E9%A1%BE.html) `许恒译`
 
 
-### 技术文章
+### 前端技术文章
 
-  fex技术周刊：http://fex.baidu.com/weekly/
-  
-  淘宝UED：http://taobaofed.org/
-  
-  奇舞周刊：http://old.75team.com/weekly/
-  
-  Echojs：http://www.echojs.com/
-  
-  javascriptweekly：http://javascriptweekly.com/
-  
-  html5weekly：http://html5weekly.com/ 
-  
-  frontendfront：https://frontendfront.com/
-  
-  medium：https://medium.com/
-  
-  开发者头条App
-  
-  chrome插件Panda
+fex技术周刊：http://fex.baidu.com/weekly/
+
+淘宝UED：http://taobaofed.org/
+
+奇舞周刊：http://old.75team.com/weekly/
+
+Echojs：http://www.echojs.com/
+
+javascriptweekly：http://javascriptweekly.com/
+
+html5weekly：http://html5weekly.com/ 
+
+frontendfront：https://frontendfront.com/
+
+medium：https://medium.com/
   
 
-### 公众号
+### 前端微信公众号
   
-  Javascript
+Javascript
   
-  InfoQ
+InfoQ
+
+前端早读课
   
-  前端早读课
-  
-  前端之巅
+前端之巅
   
-  前端外刊评论
+前端外刊评论
   
 ### 我们需要的小伙伴
 
